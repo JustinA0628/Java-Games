@@ -1,0 +1,179 @@
+Bugatti Veyron
+1500000
+Super Sport Edition
+900000
+
+Pagani Zonda R
+2800000
+
+Toyota Camry
+22970
+Protection Package
+419
+Rear Spoiler
+260
+Rear Bumper Applique
+69
+Preferred Accessory Package
+304
+Key Finder
+79
+Emergency Assistance Kit
+59
+
+Toyota Corolla
+16950
+Automatic (4-Speed)
+775
+Car Body Protection
+2168
+Car Mats
+195
+Key Finder
+79
+
+Toyota Prius
+25420
+Protection Package
+419
+Vehicle Intrusion Protection Security System
+359
+
+Toyota Tundra
+42550
+CrewMax (Extended Cab)
+3800
+Gasoline Engine only
+-1405
+Sunroof
+2800
+Brake Kit
+2895
+
+Toyota Highlander
+30945
+All-wheel drive
+2795
+Roof Rails
+350
+Vehicle Edge Guards
+254
+Towing/trailer Hitches
+719
+
+BMW M5
+93600
+Competition Package
+7300
+Executive Package
+6400
+Driver Assistance Plus
+1900
+
+BMW i8
+136500
+Pure Impulse World
+10800
+Charging Station
+1080
+
+BMW i3
+42400
+Range Extender
+3850
+Tera World
+2500
+Charging Station
+1080
+
+Nissan GT-R
+101770
+Nismo
+48220
+Red/Amber Premium Interior Package
+4000
+Cold Weather Package
+0
+Seat Belt Extender
+35
+
+Nissan 370Z
+29990
+Roadster
+11830
+7-Speed Automatic
+1300
+Aerodynamic kit
+670
+Nose Mask
+140
+Rear Spoiler
+610
+
+Chevrolet Camaro
+38300
+Convertible
+7500
+
+Dodge Viper SRT
+84995
+
+Dodge Challenger
+26995
+SRT 392
+19000
+Super Track Pack
+1600
+Driver Convenience Group
+995
+
+Dodge Charger
+27995
+SRT 392
+19390
+Sunroof
+1295
+Popular Equipment Group
+595
+Sport Appearance Group
+995
+
+Ford Mustang
+23800
+Convertible
+5500
+GT Premium
+12500
+Automatic
+2000
+
+Ford F150
+25720
+Platinum
+25540
+Trailer Tow Package
+495
+Technology Package
+905
+
+Ford Focus
+17170
+Electric
+12000
+Hatchback
+1790
+Titanium
+6000
+Focus Graphic Package
+350
+Moonroof
+895
+
+Jaguar F-Type
+65000
+
+Porsche 911
+84300
+
+Porsche Cayman GT4
+84600
